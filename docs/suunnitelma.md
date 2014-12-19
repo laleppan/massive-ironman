@@ -1,1 +1,5 @@
- 
+Tarkoituksena on tehdä kosketinsoitinta soittava robotti. Luonnollisesti ko. robotti soittaa ns. yksisormijärjestelmällä. Soitettavat "nuotit" perustuvat jonkinlaiseen "konffi-failiin", jonka muoto hakee vielä paikkaansa.
+
+Suurin riski tässä vaiheessa on robotin sivuttaisliikeen pitäminen aisoissa. Rakennussarjassa ei ollut tarpeeksi hammastankoa, joten ainakin ensimmäinen versio on rakennettava pyörävedolla. Pelkään, että sivuttaisliike ei ole tarpeeksi nopeaa, eikä tarkkaa jotta eri säveliä voisi soittaa luotettavasti.
+
+Robotti tulee ensi vaiheessa käyttämään vain valkoisia koskettimia. Mikäli homma edistyy sopivasti voidaan liikeeseen tehdä kolmas ulottuvuus ja ottaa mustat koskettimet mukaan. Tutkin parhaillaan onnistuuko koskettimien välien tunnistaminen valosensorilla. Mikäli tämä onnistuu, voi robotti itse "päätellä" kuinka monta koskettimen väliä se on edennyt vasemmalle tai oikealle (kohti matalia/korkeita säveliä). Muussa tapauksessa sivuttaisliike pitää perustaa etäisyyksiin. Kosketinsoitinten koskettimien leveys on onneksi, sekä ihmisen että robotin kannalta, vakio.
