@@ -1,1 +1,1 @@
- 
+Vähäiset tunnit ensimmäisenä parina päivänä menivät lähinnä rakennussarjan ihmettelyyn ja aiheesta googlailuun. Houkutus perinteiseen reitin/hahmon tunnistukseen oli suuri, mutta keksin itseäni lähellä olevan aiheen, jonka luulisi olevan hieman harvinaisempi. Palkkatyö on tältä vuodelta onneksi ohi, joten projektiin pääsee viikonlopusta alkaen pureutumaan kunnolla.
